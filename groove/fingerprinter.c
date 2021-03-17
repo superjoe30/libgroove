@@ -8,7 +8,7 @@
 #include "fingerprinter.h"
 #include <groove/queue.h>
 
-#include <chromaprint.h>
+#include <chromaprint/src/chromaprint.h>
 
 #include <libavutil/mem.h>
 #include <libavutil/log.h>
